@@ -1,3 +1,3 @@
 # BazarMichin
 
-https://BazarMichin.git.io
+https://BazarMichin.github.io
