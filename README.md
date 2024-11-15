@@ -1,3 +1,3 @@
 # BazarMichin
 
-https://BazarMichin.io
+https://BazarMichin
