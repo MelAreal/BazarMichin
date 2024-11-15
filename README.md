@@ -1,3 +1,3 @@
 # BazarMichin
 
-https://MelAreal/BazarMichin.git.io
+https://BazarMichin.git.io
